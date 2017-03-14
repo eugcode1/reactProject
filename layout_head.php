@@ -10,7 +10,7 @@
 
     <!-- Bootstrap CSS -->
     <link href="libs/css/bootstrap/dist/css/bootstrap.css" rel="stylesheet" media="screen">
-    <link href="libs/js/bootstrap/font-awesome.min.css" rel="stylesheet" type="text/css" media="screen" />
+    <link href="libs/css/bootstrap/font-awesome.min.css" rel="stylesheet" type="text/css" media="screen" />
     <!-- HTML5 Shiv and Respond.js IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
     <!--[if lt IE 9]>
